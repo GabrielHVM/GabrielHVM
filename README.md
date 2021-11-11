@@ -7,6 +7,6 @@
 
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielHVM&hide=contribs,prs&count_private=true&show_icons=true&theme=dark"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHVM&layout=compact&theme=dark&langs_count=16"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=GabrielHVM&hide=contribs,prs&count_private=true&show_icons=true&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHVM&layout=compact&theme=dark&langs_count=16"/>
 </div>
