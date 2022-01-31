@@ -1,6 +1,6 @@
 ### Olá! Sou o Gabriel Henrique
 
-- 🔭 Atualmente trabalho com back-end;
+- 🔭 Atualmente trabalho com back-end e DevOps;
 - 🌱 Estudando segurança da informação;
 - 📫 Contate-me através do linkedin: https://www.linkedin.com/in/gabriel-mata-bba4181a7/
 - 😄 Pronomes: ele/dele
